@@ -14,6 +14,8 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
+// Author: Nico Bokhari
+// Date Completed: March 19th, 2023
 
 public class EmailTest {
 	
